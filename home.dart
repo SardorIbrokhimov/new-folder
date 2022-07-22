@@ -1,0 +1,2 @@
+//salomalekum
+//hellomalekum
